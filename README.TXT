@@ -2,10 +2,10 @@ This repo contains Excel-based FAIR tools and links to data sources to get you s
 
 FAIR-in-Excel.xlsx is a FAIR tool to approach loss event frequency and loss magnitude, taking inputs in the form of modified beta PERT parameters (minimum, most likely, maximum, lambda). It includes 4 tabs for 4 separate scenarios, as well as another to aggregate the results into a single loss exceedance curve.
 
-FAIR-COMPARISON compares a single scenario using the above approach (which is loss event frequency and loss magnitude) with three distince approaches
+FAIR-COMPARISON compares a single scenario using the above approach (which is loss event frequency and loss magnitude) with three distinct approaches
 1) modified beta PERT parameters as inputs (minimum, most likely, maximum, lambda)
 2) triangle distribution as inputs (minimum, most likely, maximum)
-3) poisson as input to loss event frequency and lognormal as input to loss magnitude
+3) Poisson as input to loss event frequency and lognormal as input to loss magnitude
 It compares all three resulting loss exceedance curves.
 
 Monte-Carlo-Math.xlsx is an Excel-based tool which allows the user to quickly visualize and get feedback on simple mathematical operations. By default it includes:
